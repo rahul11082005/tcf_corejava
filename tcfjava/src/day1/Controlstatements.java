@@ -7,7 +7,7 @@ public class Controlstatements{
 	        int number = 10;
 	        int a;
 	        int b;
-
+	        
 	        if (number > 0) {
 	            System.out.println("Number is positive");
 	        } else if (number < 0) {
